@@ -27,8 +27,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaelfarsaoui&theme=tokyonight" height="160" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaelfarsaoui&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak">
 </p>
 
 ---
@@ -37,10 +37,10 @@
 
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" style="filter: invert(100%)" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/osamaelfarsaoui">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" style="filter: invert(100%)" alt="LinkedIn"/>
   </a>
 </p>
