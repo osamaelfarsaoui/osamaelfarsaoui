@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/031/456/789/large/darkracer84-coatconceptartconceptdesigndevilmaycryvergilwhitehairvergilspardavergildevilmaycry5vergil_sparda.jpg?1689191111" alt="Vergil using special move" width="400">
+  <img src="data:image/png;base64,INSERT_BASE64_ENCODED_IMAGE_HERE" alt="Vergil using special move" width="400">
 </p>
 
 <h1 align="center">✨ Hey, I'm Oussama (osamaelfarsaoui) ✨</h1>
-<p align="center">💻 Developer |  C • C++ • PHP • HTML5 • CSS3 • MariaDB</p>
+<p align="center">💻 Developer | C • C++ • PHP • HTML5 • CSS3 • MariaDB</p>
 
 ---
 
-###  About Me  
-- 👨‍💻 Enthusiast in low-level programming & web development  
+###  About Me
+- 👨‍💻 Enthusiast in system-level programming and web development  
 -  Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
--  Dedicated to building impactful projects and collaborating in open source  
+-  Passionate about building impactful projects and contributing to open-source collaborations  
 
 ---
 
-###  Tech Stack  
+###  Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
@@ -27,7 +27,7 @@
 
 ---
 
-###  GitHub Stats  
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats">
@@ -36,7 +36,7 @@
 
 ---
 
-###  Connect with Me  
+###  Connect with Me
 
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
