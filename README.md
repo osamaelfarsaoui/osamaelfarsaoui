@@ -1,18 +1,18 @@
-<!-- Banner -->
+<!-- Cute Anime Girl -->
 <p align="center">
-  <img src="https://i.ibb.co/8NTpG4B/anime-waifu-banner.gif" alt="Profile Banner" width="800">
+  <img src="https://i.ibb.co/f0K2d7X/anime-waifu2.gif" alt="Cute Anime Girl" width="300">
 </p>
 
-<h1 align="center">✨ Welcome to Oussama's World ✨</h1>
-<p align="center">💻 Developer | 🌐 Web Enthusiast | 🎨 Anime Aesthetic Lover</p>
+<h1 align="center">✨ Hey, I'm Oussama ✨</h1>
+<p align="center">💻 Developer | 🌐 Web & System Programming | 🚀 Always Learning</p>
 
 ---
 
 ### 🚀 About Me  
-- 🔥 Hi, I’m **Oussama**, passionate about **system-level programming & web development**  
-- 🎯 Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
-- 🌸 Love anime aesthetics, tech innovation, and open-source  
-- 📚 Always learning & building cool projects  
+- 👨‍💻 Passionate about **low-level programming & web development**  
+- 🛠️ Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
+- 📚 Constantly improving and building meaningful projects  
+- 🌍 Open to collaboration & contributing to open-source  
 
 ---
 
@@ -40,14 +40,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
-
----
-
-### 🎀 Aesthetic Touch  
-<p align="center">
-  <img src="https://i.ibb.co/f0K2d7X/anime-waifu2.gif" width="300">
-</p>
-<p align="center">🌸 *Code like a pro, vibe like an anime character.* 🌸</p>
 
 ---
 
