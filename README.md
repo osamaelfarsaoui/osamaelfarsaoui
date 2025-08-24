@@ -1,6 +1,5 @@
-<!-- Cute Anime Girl -->
 <p align="center">
-  <img src="https://media.tenor.com/qIuubA5kzL0AAAAC/anime-girl.gif" alt="Cute Anime Girl" width="300">
+  <img src="https://media.tenor.com/6jJgI0MHxwcAAAAC/anime-girl.gif" alt="Cute Anime Girl" width="300">
 </p>
 
 <h1 align="center">✨ Hey, I'm Oussama ✨</h1>
@@ -16,15 +15,15 @@
 
 ---
 
-### 🛠️ Tech Skills  
+### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB"/>
 </p>
 
 ---
@@ -32,19 +31,20 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaelfarsaoui&theme=tokyonight" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaelfarsaoui&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaelfarsaoui&theme=tokyonight" height="160" alt="GitHub Streak">
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
+
 <p align="center">
-  <a href="https://github.com/osamaelfarsaoui"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/osamaelfarsaoui"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/osamaelfarsaoui">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/osamaelfarsaoui">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
 </p>
