@@ -1,33 +1,30 @@
-<p align="center">
-  <img src="data:image/png;base64,INSERT_BASE64_ENCODED_IMAGE_HERE" alt="Vergil using special move" width="400">
-</p>
-
-<h1 align="center">✨ Hey, I'm Oussama (osamaelfarsaoui) ✨</h1>
-<p align="center">💻 Developer | C • C++ • PHP • HTML5 • CSS3 • MariaDB</p>
+<h1 align="center">✨ Hey, I'm Oussama ✨</h1>
+<p align="center">💻 Developer | 🌐 Web & System Programming | 🚀 Always Learning</p>
 
 ---
 
-###  About Me
-- 👨‍💻 Enthusiast in system-level programming and web development  
--  Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
--  Passionate about building impactful projects and contributing to open-source collaborations  
+### 🚀 About Me  
+- 👨‍💻 Passionate about **low-level programming & web development**  
+- 🛠️ Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
+- 📚 Constantly improving and building meaningful projects  
+- 🌍 Open to collaboration & contributing to open-source  
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="50" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
 </p>
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats">
@@ -36,14 +33,14 @@
 
 ---
 
-###  Connect with Me
+### 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/osamaelfarsaoui">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
