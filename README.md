@@ -3,23 +3,23 @@
 
 ---
 
-### ​ About Me  
+### 🚀 About Me  
 - 👨‍💻 Passionate about **low-level programming & web development**  
 - 🛠️ Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
 - 📚 Constantly improving and building meaningful projects  
-- 🌍 Open to collaboration & contributing to open-source  
+- 🌍 Open to collaboration & contributing to open‑source  
 
 ---
 
-### ​​ Tech Stack  
+### 🛠️ Tech Stack  
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,php,html,css,mariadb&theme=dark)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,mariadb&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
 
-### ​ GitHub Stats  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats">
@@ -28,7 +28,7 @@
 
 ---
 
-### ​ Connect with Me  
+### 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
