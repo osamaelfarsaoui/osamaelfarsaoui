@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 About Me  
+### ​ About Me  
 - 👨‍💻 Passionate about **low-level programming & web development**  
 - 🛠️ Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
 - 📚 Constantly improving and building meaningful projects  
@@ -11,36 +11,31 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### ​​ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,php,html,css,mariadb&theme=dark)](https://skillicons.dev)
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### ​ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaelfarsaoui&theme=tokyonight" height="160" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaelfarsaoui&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak">
 </p>
 
 ---
 
-### 🌐 Connect with Me  
+### ​ Connect with Me  
 
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" style="filter: invert(100%)" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/osamaelfarsaoui">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" style="filter: invert(100%)" alt="LinkedIn"/>
   </a>
 </p>
