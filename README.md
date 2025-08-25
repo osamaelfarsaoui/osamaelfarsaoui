@@ -7,7 +7,7 @@
 - 👨‍💻 Passionate about **low-level programming & web development**  
 - 🛠️ Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
 - 📚 Constantly improving and building meaningful projects  
-- 🌍 Open to collaboration & contributing to open-source  
+- 🌍 Open to collaboration & contributing to open‑source  
 
 ---
 
@@ -15,6 +15,17 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,mariadb&theme=dark" alt="Tech Stack"/>
+</p>
+
+---
+
+### 🎮 Activity / Status  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Currently-online-brightgreen?style=for-the-badge" alt="Online"/>
+  <img src="https://img.shields.io/badge/Playing-nothing%20rn-blueviolet?style=for-the-badge" alt="Playing"/>
+  <img src="https://img.shields.io/badge/Coding-nothing%20rn-lightgrey?style=for-the-badge" alt="Coding"/>
+  <img src="https://img.shields.io/badge/Listening-nothing%20rn-lightblue?style=for-the-badge" alt="Listening"/>
 </p>
 
 ---
@@ -32,28 +43,10 @@
 
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" style="filter: invert(100%)" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/osamaelfarsaoui">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-### 🏆 Badges
-
-<p align="center">
-  <a href="https://github.com/osamaelfarsaoui">
-    <img src="https://img.shields.io/badge/Followers-1000+?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/osamaelfarsaoui">
-    <img src="https://img.shields.io/badge/Stars-500+?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/osamaelfarsaoui">
-    <img src="https://img.shields.io/badge/Forks-100+?style=for-the-badge&logo=github&logoColor=white" alt="Forks"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" style="filter: invert(100%)" alt="LinkedIn"/>
   </a>
 </p>
