@@ -33,10 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaelfarsaoui&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osamaelfarsaoui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
-
 ---
 
 ### 🌐 Connect with Me
