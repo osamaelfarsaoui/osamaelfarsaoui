@@ -1,52 +1,51 @@
-<h1 align="center">✨ Hey, I'm Oussama ✨</h1>
-<p align="center">💻 Developer | 🌐 Web & System Programming | 🚀 Always Learning</p>
-
----
-
-### 🚀 About Me  
-- 👨‍💻 Passionate about **low-level programming & web development**  
-- 🛠️ Skilled in **C, C++, PHP, HTML, CSS3, MariaDB**  
-- 📚 Constantly improving and building meaningful projects  
-- 🌍 Open to collaboration & contributing to open‑source  
-
----
-
-### 🛠️ Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,mariadb&theme=dark" alt="Tech Stack"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b2e7ef,100:3d54a7&height=250&section=header&text=Hey,%20I'm%20Oussama&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
+</p>
+
+<div align="center">
+
+  ### ✨ Developer | Web & System Programming | Always Learning ✨
+
+</div>
+
+---
+
+### 🚀 About Me
+- 👨‍💻 Passionate about **low-level programming & web development**.
+- 🛠️ Skilled in **C, C++, PHP, HTML, CSS3, and MariaDB**.
+- 📚 Constantly looking to improve my skills and build meaningful projects.
+- 🌍 Open to collaboration and contributing to impactful open-source projects.
+
+---
+
+### 🛠️ My Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,mariadb&perline=6&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
 
-### 🎮 Activity / Status  
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Currently-online-brightgreen?style=for-the-badge" alt="Online"/>
-  <img src="https://img.shields.io/badge/Playing-nothing%20rn-blueviolet?style=for-the-badge" alt="Playing"/>
-  <img src="https://img.shields.io/badge/Coding-nothing%20rn-lightgrey?style=for-the-badge" alt="Coding"/>
-  <img src="https://img.shields.io/badge/Listening-nothing%20rn-lightblue?style=for-the-badge" alt="Listening"/>
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaelfarsaoui&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaelfarsaoui&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osamaelfarsaoui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
+
 ---
 
-### 🌐 Connect with Me  
-
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" style="filter: invert(100%)" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/osamaelfarsaoui">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" style="filter: invert(100%)" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
   </a>
 </p>
