@@ -30,7 +30,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Currently-online-brightgreen?style=for-the-badge" alt="Online"/>
   <img src="https://img.shields.io/badge/Playing-nothing%20rn-blueviolet?style=for-the-badge" alt="Playing"/>
-  <img src="https://img.shields.io/badge/Coding-nothing%20rn-lightgrey?style=for-the-badge" alt="Coding"/>
+  <img src="https://img.shields.io/badge/Coding-push%20swap-lightgrey?style=for-the-badge" alt="Coding"/>
   <img src="https://img.shields.io/badge/Listening-nothing%20rn-lightblue?style=for-the-badge" alt="Listening"/>
 </p>
 
