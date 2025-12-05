@@ -34,17 +34,6 @@
   <img src="https://img.shields.io/badge/Listening-nothing%20rn-lightblue?style=for-the-badge" alt="Listening"/>
 </p>
 
----
-
-### 📊 My GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaelfarsaoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaelfarsaoui&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages">
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
