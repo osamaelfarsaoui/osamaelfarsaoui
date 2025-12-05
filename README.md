@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222244,33:000000,66:440044,100:00aaff&height=250&section=header&text=Hey,%20I'm%20Oussama&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Kode%20Mono" alt="Header Banner"/>
-</p>
-
 <div align="center">
 
   ### ✨ Developer | Web & System Programming | Always Learning ✨
