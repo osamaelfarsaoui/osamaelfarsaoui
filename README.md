@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently-online-brightgreen?style=for-the-badge" alt="Online"/>
-  <img src="https://img.shields.io/badge/Coding-a$20maze%20ing-lightgrey?style=for-the-badge" alt="Coding"/>
+  <img src="https://img.shields.io/badge/Coding-a%20maze%20ing-lightgrey?style=for-the-badge" alt="Coding"/>
   <img src="https://img.shields.io/badge/Listening-shall%20never%20surrender-lightblue?style=for-the-badge" alt="Listening"/>
 </p>
 
