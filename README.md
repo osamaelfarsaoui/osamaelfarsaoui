@@ -16,7 +16,7 @@
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,php,html,css,mariadb&perline=6&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=c,php,html,css,mariadb&perline=6&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
