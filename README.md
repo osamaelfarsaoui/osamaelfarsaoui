@@ -1,9 +1,3 @@
-<div align="center">
-  ### Developer
-</div>
-
----
-
 ### About Me
 - Passionate about **low-level programming & web development**.
 - Skilled in **C, PHP, HTML, CSS3, and MariaDB**.
