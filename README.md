@@ -1,27 +1,25 @@
 <div align="center">
-
-  ### ✨ Developer | Web & System Programming | Always Learning ✨
-
+  ###  Developer
 </div>
 
 ---
 
-### 🚀 About Me
-- 👨‍💻 Passionate about **low-level programming & web development**.
-- 🛠️ Skilled in **C, PHP, HTML, CSS3, and MariaDB**.
-- 📚 Constantly looking to improve my skills and build meaningful projects.
-- 🌍 Open to collaboration and contributing to impactful open-source projects.
+### About Me
+- Passionate about **low-level programming & web development**.
+- Skilled in **C, PHP, HTML, CSS3, and MariaDB**.
+- Constantly looking to improve my skills and build meaningful projects.
+- Open to collaboration and contributing to impactful open-source projects.
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,php,html,css,mariadb&perline=6&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
 
-### 🎮 Activity / Status
+### Activity / Status
 
 <p align="center">
   <img src="https://img.shields.io/badge/Currently-online-brightgreen?style=for-the-badge" alt="Online"/>
@@ -29,7 +27,7 @@
   <img src="https://img.shields.io/badge/Listening-Rockstar-lightblue?style=for-the-badge" alt="Listening"/>
 </p>
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
