@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Listening-Rockstar-lightblue?style=for-the-badge" alt="Listening"/>
 </p>
 
+---
+
 ### Connect with Me
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
