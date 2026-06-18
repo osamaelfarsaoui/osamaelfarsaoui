@@ -13,16 +13,6 @@
 
 ---
 
-### Activity / Status
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently-online-brightgreen?style=for-the-badge" alt="Online"/>
-  <img src="https://img.shields.io/badge/Coding-ProjectZero-lightgrey?style=for-the-badge" alt="Coding"/>
-  <img src="https://img.shields.io/badge/Listening-Rockstar-lightblue?style=for-the-badge" alt="Listening"/>
-</p>
-
----
-
 ### Connect with Me
 <p align="center">
   <a href="https://github.com/osamaelfarsaoui">
